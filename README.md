@@ -1,6 +1,3 @@
-Here’s the entire README content formatted correctly in Markdown:
-
-```markdown
 # Project Name: Poly-Ecom Backend
 
 This is the backend service for the Poly-Ecom application. It is built using NestJS, Prisma, and PostgreSQL. The project provides APIs for managing users, products, and orders, and includes features such as authentication, role-based access control, logging, pagination, and Docker containerization.
@@ -23,7 +20,6 @@ Before running the project, make sure you have the following installed:
    ```bash
    git clone https://github.com/your-repo/poly-ecom-backend.git
    cd poly-ecom-backend
-   ```
 
 2. **Install dependencies:**
 
